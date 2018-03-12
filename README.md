@@ -2,7 +2,7 @@
 KADT is a Decision Tree algorithm with Continuous Valued Attributes proposed by SONG Yan, YAO Shuang, YU Donghua, et al. in 2017.
 
 ### Paper Information
-SONG Yan, YAO Shuang*, YU Donghua, SHEN Yan and HU Yuzhen. **A New K-ary Crisp Decision Tree Induction with Continuous Valued Attributes**. _Chinese Jornal of Electronics_. 2017,26(5):999-1007.
+SONG Yan, YAO Shuang*, YU Donghua, SHEN Yan and HU Yuzhen. **A New K-ary Crisp Decision Tree Induction with Continuous Valued Attributes**. _Chinese Journal of Electronics_. 2017,26(5):999-1007.
 
 ### Code and Data
 quick start:
